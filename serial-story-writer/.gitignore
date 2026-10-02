@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+stories/*
+!stories/.gitkeep
+*.egg-info/
+.pytest_cache/
